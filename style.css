@@ -1,0 +1,36 @@
+body{
+	background-color: black;
+}
+h1{
+	text-align: center;
+	color: wheat;
+	text-shadow: 1px 1px yellow;
+}
+span{
+	padding: 1rem;
+}
+
+.soma{
+	background-color: yellow;
+	padding: 1rem;
+}
+.subtra{
+	background-color: blue;
+	padding: 1rem;
+}
+.multi{
+	background-color: green;
+	padding: 1rem;
+}
+.divis{
+	background-color: gray;
+	padding: 1rem;
+}
+.quad{
+	background-color: brown;
+	padding: 1rem;
+}
+.cubo{
+	background-color: peru;
+	padding: 1rem;
+}
