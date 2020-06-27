@@ -10,6 +10,10 @@ span{
 	padding: 1rem;
 }
 
+.container{
+	background-color: gray;
+}
+
 .soma{
 	background-color: yellow;
 	padding: 1rem;
@@ -32,5 +36,22 @@ span{
 }
 .cubo{
 	background-color: peru;
+	padding: 1rem;
+}
+.pote{
+	background-color: purple;
+	padding: 1rem;
+}
+.primo{
+	background-color: #565734;
+	padding: 1rem;
+}
+
+.porcento{
+	background-color: #657680;
+	padding: 1rem;
+}
+.raiz{
+	background-color: #985234;
 	padding: 1rem;
 }
